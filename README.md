@@ -119,35 +119,6 @@ javac *.java
 java Main
 ```
 
----
-
-# Screenshots
-
-## Dashboard
-
-```md
-![Dashboard](screenshots/dashboard.png)
-```
-
-## Student Management
-
-```md
-![Students](screenshots/students.png)
-```
-
-## Course Management
-
-```md
-![Courses](screenshots/courses.png)
-```
-
-## Reports
-
-```md
-![Reports](screenshots/reports.png)
-```
-
----
 
 # Sample Functionalities
 
